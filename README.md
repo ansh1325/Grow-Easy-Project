@@ -10,6 +10,10 @@
     <a href="#getting-started"><strong>Getting Started</strong></a> ·
     <a href="#evaluation-criteria-met"><strong>Evaluation Checklist</strong></a>
   </p>
+  <p align="center">
+    🚀 <strong>Live Demo (Frontend):</strong> <a href="https://groweasy-frontend-jl97.onrender.com">https://groweasy-frontend-jl97.onrender.com</a><br>
+    ⚙️ <strong>Live API (Backend):</strong> <a href="https://grow-easy-project.onrender.com">https://grow-easy-project.onrender.com</a>
+  </p>
 </div>
 
 ---
